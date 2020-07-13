@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me
 
 <!--
 **jiangzhongshi/jiangzhongshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a fourth-year PhD candidate at the Courant Institute of Mathematical Sciences, New York University, working on geometry processing with Prof. Daniele Panozzo. My current research aims to robustly and efficiently process geometric entities with optimization and data driven approaches. My research has been recognized by Adobe Research Fellowship 2018, Geometry Processing Dataset Award 2019, and Jacob T. Schwartz PhD Fellowship 2020.
+
+I earned my Bachelor of Science in Mathematics and Applied Mathematics from the School of Gifted Young, University of Science and Technology of China in 2016.
+
+https://cs.nyu.edu/~zhongshi/
