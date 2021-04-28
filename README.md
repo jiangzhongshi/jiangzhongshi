@@ -1,24 +1,6 @@
-### About me
-![Zhongshi Jiang's github stats](https://github-readme-stats.vercel.app/api?username=jiangzhongshi&count_private=true&show_icons=true)
+## Hi! I'm Zhongshi.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiangzhongshi)
-
-<!--
-**jiangzhongshi/jiangzhongshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I am a Ph.D. candidate at *the Courant Institute of Mathematical Sciences, New York University*, working with Prof. Daniele Panozzo. My current research aims to provide robust discrete geometry processing tools for machine learning, digital fabrication and scientific computing. 
+I am a Ph.D. candidate at *New York University*, working on computer graphics and geometry processing. My current research aims to provide robust discrete geometry processing tools for machine learning, digital fabrication and scientific computing. 
 My research has been recognized by *Adobe Research Fellowship 2018*, *Geometry Processing Dataset Award 2019*, and *Jacob T. Schwartz PhD Fellowship 2020*.
 
 I earned my Bachelor of Science in *Mathematics and Applied Mathematics* from *the School of Gifted Young, University of Science and Technology of China* in 2016.
