@@ -1,6 +1,6 @@
 # Hi! I'm Zhongshi.
 
-I am a Research Scientist at Meta [Codec Avatars](https://www.meta.com/emerging-tech/codec-avatars/) Labs, working on digital humans ([facial reconstruction](https://github.com/facebookresearch/FaceMap), [shape and motion](https://rongakowang.github.io/fresa/fresa.html), clothing and hair) for next generation of [communication](https://www.youtube.com/watch?v=MVYrJJNdrEg).
+I am a Research Scientist at Meta [Human AI](https://www.meta.com/emerging-tech/codec-avatars/), working on digital humans ([facial reconstruction](https://github.com/facebookresearch/FaceMap), [shape and motion](https://rongakowang.github.io/fresa/fresa.html), [clothing and hair](https://junxuan-li.github.io/lca/)) for next generation of [communication](https://www.youtube.com/watch?v=MVYrJJNdrEg).
 
 I finished my Ph.D. degree at *New York University*, working on computer graphics and geometry processing. My PhD research aims to provide robust discrete geometry processing tools for machine learning, digital fabrication and scientific computing. 
 My research has been recognized by *Adobe Research Fellowship 2018*, *Geometry Processing Dataset Award 2019*, and *Jacob T. Schwartz PhD Fellowship 2020*.
